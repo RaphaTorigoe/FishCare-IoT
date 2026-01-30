@@ -30,5 +30,5 @@ O **FishCare IoT** foi pensado para ajudar no acompanhamento da temperatura em p
 - 1x LED Verde + resistor 220Ω
 - 1x LED Vermelho + resistor 220Ω
 - 1x Tela LCD 20x4
-- Protoboard e Jumpers
 - 1x Fonte de alimentação 5V / 2A
+- Protoboard e Jumpers
