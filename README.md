@@ -14,3 +14,21 @@ O **FishCare IoT** foi pensado para ajudar no acompanhamento da temperatura em p
   - Verde dentro do intervalo
   - Vermelho fora do intervalo
 - Limites configuráveis diretamente no código (por enquanto)
+
+## Tecnologias utilizadas
+
+- **ESP32**
+- **C++**
+- **Arduino IDE**
+- **Google Forms e Google Sheets** como banco de dados/histórico
+- Wi-Fi
+
+## Hardware
+
+- 1x ESP32
+- 1x Sensor de temperatura **DS18B20**
+- 1x LED Verde + resistor 220Ω
+- 1x LED Vermelho + resistor 220Ω
+- 1x Tela LCD 20x4
+- Protoboard e Jumpers
+- 1x Fonte de alimentação 5V / 2A
