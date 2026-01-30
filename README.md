@@ -6,11 +6,13 @@ Os dados são enviados para um **banco de dados usando Google Planilhas**, e o s
 
 O **FishCare IoT** foi pensado para ajudar no acompanhamento da temperatura em piscicultura, permitindo registrar medições continuamente e armazenar o histórico na nuvem (Google Sheets), facilitando análise e tomada de decisão.
 
+
 ## Porque eu fiz esse projeto? 
 
 A temperatura da água é um dos parâmetros mais críticos na piscicultura: ela influencia o metabolismo, o crescimento e a taxa de oxigenação da água, impactando diretamente a saúde e a mortalidade dos peixes. O monitoramento manual é intermitente e sujeito a falhas; já um sistema IoT oferece acompanhamento contínuo e remoto, permitindo respostas rápidas a variações climáticas e redução de perdas. 
 
 Além de ser tecnicamente viável e de baixo custo (apenas um sensor principal), o protótipo é escalável para integrar futuramente outros tipos de componentes.
+
 
 ## Funcionalidades
 
